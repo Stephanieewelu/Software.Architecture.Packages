@@ -99,3 +99,5 @@ For support and questions, please open an issue in the repository.
 - Improved performance metrics tracking system
 - Updated package compatibility documentation
 - Improved documentation for installation and setup.
+
+- Refactored package categorization logic for better scalability.
