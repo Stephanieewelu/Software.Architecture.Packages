@@ -101,3 +101,5 @@ For support and questions, please open an issue in the repository.
 - Improved documentation for installation and setup.
 
 - Refactored package categorization logic for better scalability.
+
+- Updated dependencies to the latest stable versions.
