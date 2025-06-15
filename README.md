@@ -103,3 +103,5 @@ For support and questions, please open an issue in the repository.
 - Optimized database queries for faster package retrieval.
 
 - Added support for new AI model versions.
+
+- Enhanced error logging for API endpoints.
