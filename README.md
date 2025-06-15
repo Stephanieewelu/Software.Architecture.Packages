@@ -96,10 +96,7 @@ For support and questions, please open an issue in the repository.
 ## Recent Improvements
 
 - Added enhanced search functionality for AI packages
-- Improved performance metrics tracking system
+- Implemented a new search algorithm for improved relevance.
+
 - Updated package compatibility documentation
-- Improved documentation for installation and setup.
-
-- Refactored package categorization logic for better scalability.
-
 - Updated dependencies to the latest stable versions.
