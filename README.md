@@ -101,3 +101,5 @@ For support and questions, please open an issue in the repository.
 - Implemented new data validation for package metadata.
 
 - Optimized database queries for faster package retrieval.
+
+- Added support for new AI model versions.
