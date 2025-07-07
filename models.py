@@ -1,5 +1,17 @@
 from django.db import models
 
+# models.py
+
+class User:
+    def __init__(self, user_id, username):
+        self.user_id = user_id
+        self.username = username # Added username field
+
+    def get_info(self):
+        return f"User ID: {self.user_id}, Username: {self.username}"
+
+
+
 class RockaePackageCatalogue(models.Model):
     name = models.CharField(max_length=255, help_text="Name of the AI package or tool")
     description = models.TextField(blank=True, null=True, help_text="Detailed description of the AI package's functionality")
