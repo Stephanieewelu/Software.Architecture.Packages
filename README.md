@@ -106,6 +106,7 @@ For support and questions, please open an issue in the repository.
 - Develop a plugin architecture for custom extensions.
 - Implement robust error handling and logging mechanisms.
 - Enhance security features, including vulnerability scanning and secure coding practices.
+- Implement a recommendation engine for AI packages based on user preferences.
 
 ## Future Enhancements
 
