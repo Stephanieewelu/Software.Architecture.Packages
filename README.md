@@ -103,6 +103,7 @@ For support and questions, please open an issue in the repository.
 - Create a dashboard for visualizing package performance metrics.
 - Support for versioning of AI packages.
 - Implement a notification system for package updates.
+- Develop a plugin architecture for custom extensions.
 
 ## Future Enhancements
 
