@@ -102,6 +102,7 @@ For support and questions, please open an issue in the repository.
 - Enhance search with natural language processing capabilities.
 - Create a dashboard for visualizing package performance metrics.
 - Support for versioning of AI packages.
+- Implement a notification system for package updates.
 
 ## Future Enhancements
 
