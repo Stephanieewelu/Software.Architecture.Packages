@@ -99,6 +99,7 @@ For support and questions, please open an issue in the repository.
 - Add a package rating and review system.
 - Develop a CI/CD pipeline for automated testing and deployment.
 - Integrate with more AI model providers.
+- Enhance search with natural language processing capabilities.
 
 ## Future Enhancements
 
