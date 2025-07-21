@@ -98,6 +98,7 @@ For support and questions, please open an issue in the repository.
 - Implement user authentication and authorization.
 - Add a package rating and review system.
 - Develop a CI/CD pipeline for automated testing and deployment.
+- Integrate with more AI model providers.
 
 ## Future Enhancements
 
