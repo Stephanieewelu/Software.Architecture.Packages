@@ -9,3 +9,6 @@ class Application:
 
     def get_status(self):
         return f"{self.name} is running smoothly."
+
+    def install_package(self, package_name):
+        print(f"Installing {package_name} using {self.name}.")

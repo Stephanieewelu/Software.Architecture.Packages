@@ -13,5 +13,15 @@ class TestUser(unittest.TestCase):
         app = Application("TestApp")
         self.assertEqual(app.get_status(), "TestApp is running smoothly.")
 
+    def test_install_package(self):
+        from app import Application
+        app = Application("TestApp")
+        # We can't directly test print statements, but we can ensure the method runs without error
+        try:
+            app.install_package("TestPackage")
+            self.assertTrue(True) # If no exception, test passes
+        except Exception as e:
+            self.fail(f"install_package raised an exception: {e}")
+
 if __name__ == '__main__':
     unittest.main()
