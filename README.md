@@ -96,6 +96,7 @@ For support and questions, please open an issue in the repository.
 ## Future Enhancements
 
 - Implement user authentication and authorization.
+- Add a package rating and review system.
 
 ## Future Enhancements
 
