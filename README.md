@@ -100,6 +100,7 @@ For support and questions, please open an issue in the repository.
 - Develop a CI/CD pipeline for automated testing and deployment.
 - Integrate with more AI model providers.
 - Enhance search with natural language processing capabilities.
+- Create a dashboard for visualizing package performance metrics.
 
 ## Future Enhancements
 
