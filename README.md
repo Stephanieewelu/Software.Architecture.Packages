@@ -105,6 +105,7 @@ For support and questions, please open an issue in the repository.
 - Implement a notification system for package updates.
 - Develop a plugin architecture for custom extensions.
 - Implement robust error handling and logging mechanisms.
+- Enhance security features, including vulnerability scanning and secure coding practices.
 
 ## Future Enhancements
 
