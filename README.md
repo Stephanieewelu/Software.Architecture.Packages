@@ -111,6 +111,7 @@ For support and questions, please open an issue in the repository.
 - Create a user-friendly web interface for package management.
 - Optimize database queries and improve data storage efficiency.
 - Implement a robust search and filtering system for packages.
+- Integrate with popular development environments (IDEs) for seamless access.
 
 ## Future Enhancements
 
