@@ -113,6 +113,7 @@ For support and questions, please open an issue in the repository.
 - Implement a robust search and filtering system for packages.
 - Develop a robust plugin architecture for extensibility.
 - Enhance documentation with more examples and tutorials.
+- Implement a versioning system for packages and dependencies.
 - Integrate with popular development environments (IDEs) for seamless access.
 - Implement a robust search and filtering system for packages.
 
