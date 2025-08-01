@@ -23,5 +23,9 @@ class TestUser(unittest.TestCase):
         except Exception as e:
             self.fail(f"install_package raised an exception: {e}")
 
+def test_user_validation(self):
+        user = User(2, "validuser")
+        self.assertTrue(len(user.username) > 0)
+
 if __name__ == '__main__':
     unittest.main()
