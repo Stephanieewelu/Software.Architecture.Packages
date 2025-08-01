@@ -1,5 +1,3 @@
-# app.py
-
 class Application:
     def __init__(self, name):
         self.name = name
@@ -12,3 +10,5 @@ class Application:
 
     def install_package(self, package_name):
         print(f"Installing {package_name} using {self.name}.")
+
+# Initial comment for commit 1
