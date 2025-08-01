@@ -12,3 +12,4 @@ class Application:
         print(f"Installing {package_name} using {self.name}.")
 
 # Initial comment for commit 1
+# Comment for commit 2
