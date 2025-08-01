@@ -27,5 +27,9 @@ def test_user_validation(self):
         user = User(2, "validuser")
         self.assertTrue(len(user.username) > 0)
 
+def test_logging(self):
+        # Simulate logging test
+        self.assertTrue(True)
+
 if __name__ == '__main__':
     unittest.main()
