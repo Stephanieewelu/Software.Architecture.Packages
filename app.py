@@ -14,9 +14,3 @@ class Application:
 # Initial comment for commit 1
 # Comment for commit 2
 # Comment for commit 4
-
-def new_feature_function():
-    """This is a new feature function."""
-    pass
-
-# Performance optimization comment
